@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<add key="telegramUserName" value="someusername_bot" />
+		<add key="telegramAccessToken" value="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11" />
+	</appSettings>
+</configuration>
